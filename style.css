@@ -74,7 +74,6 @@ ul li a {
 
 .content {
   padding: 12px;
-  /* border: 2px solid black; */
 }
 
 .para {
@@ -107,8 +106,6 @@ ul li a {
 }
 
 .right {
-  position: relative;
-  /* border: 2px solid black; */
   width: 50vw;
 }
 
@@ -117,8 +114,6 @@ ul li a {
   width: 100%;
   border: 2px solid black;
 }
-
-/* data:image/jpeg;base64,<base64_encoded_string> */
 
 .right-img {
   position: relative;
